@@ -1,7 +1,8 @@
 # CommunityActivity
-My Dedication to Developers All Over the World.
-These are my small collection of 
+My Dedication to Developers All Over the World.   These are my small collection of 
 Supporting Activity to Tizen Devlopers and Samsung Developers Worldwide:
+
+
 /* If any previous post not found from below link(s) please see Archived File(s)   */
 -------------------------------------------------------------------------------
 (*) Tizen Developer Forum:
