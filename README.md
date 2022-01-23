@@ -1,8 +1,7 @@
 # CommunityActivity
 Some collection of My Supporting Activity to Tizen Devlopers and Samsung Developers @Samsung:
 
-
-/* If any previous post not found from below link(s) please see Archived File(s)   */
+### If any previous post not found from below link(s) please see [**Archived File(s)**](https://github.com/ShihabYasin/CommunityActivity/blob/master/CommunitySupportArchivedFile_1.rar)
 -------------------------------------------------------------------------------
 (*) Tizen Developer Forum:
 1.	https://developer.tizen.org/comment/24269#comment-24269
