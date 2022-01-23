@@ -4,21 +4,21 @@ Some collection of My Supporting Activity to Tizen Devlopers and Samsung Develop
 ### If any previous post not found from below link(s) please see [**Archived File(s)**](https://github.com/ShihabYasin/CommunityActivity/blob/master/CommunitySupportArchivedFile_1.rar)
 -------------------------------------------------------------------------------
 (*) Tizen Developer Forum:
-1.	https://developer.tizen.org/comment/24269#comment-24269
+1.	[https://developer.tizen.org/comment/24269#comment-24269](https://web.archive.org/web/20220123045614/https://developer.tizen.org/comment/24269#comment-24269)
 
-2.	https://developer.tizen.org/ko/comment/24266?langredirect=1#comment-24266
+2.	[https://developer.tizen.org/ko/comment/24266?langredirect=1#comment-24266](https://web.archive.org/web/20220123050143/https://developer.tizen.org/ko/comment/24266?langredirect=1#comment-24266)
 
-3.	https://developer.tizen.org/ko/forums/sdk-ide/magicinfo-author-custom-widget-creation?langswitch=ko
+3.	[https://developer.tizen.org/ko/forums/sdk-ide/magicinfo-author-custom-widget-creation?langswitch=ko](https://web.archive.org/web/20220123051810/https://developer.tizen.org/ko/forums/sdk-ide/magicinfo-author-custom-widget-creation?langswitch=ko)
 
-4.	https://developer.tizen.org/ko/forums/native-application-development/lock-orientation?langredirect=1
+4.	[https://developer.tizen.org/ko/forums/native-application-development/lock-orientation?langredirect=1](https://web.archive.org/web/20220123052338/https://developer.tizen.org/ko/forums/native-application-development/lock-orientation?langredirect=1)
 
-5.	https://developer.tizen.org/zh-hans/comment/23817?langredirect=1%20-%20comment-23817
+5.	[https://developer.tizen.org/zh-hans/comment/23817?langredirect=1%20-%20comment-23817](https://web.archive.org/web/20220123052626/https://developer.tizen.org/zh-hans/comment/23817?langredirect=1%2520-%2520comment-23817)
 
-6.	https://developer.tizen.org/ko/comment/23339?langredirect=1%20-%20comment-23339
+6.	[https://developer.tizen.org/ko/comment/23339?langredirect=1%20-%20comment-23339](https://web.archive.org/web/20220123052828/https://developer.tizen.org/ko/comment/23339?langredirect=1%2520-%2520comment-23339)
 
-7.	https://developer.tizen.org/ko/forums/sdk-ide/emulator-debugger-woes?langredirect=1
+7.	[https://developer.tizen.org/ko/forums/sdk-ide/emulator-debugger-woes?langredirect=1](https://web.archive.org/web/20220123052955/https://developer.tizen.org/ko/forums/sdk-ide/emulator-debugger-woes?langredirect=1)
 
-8.	https://developer.tizen.org/ko/forums/general-support/reading-logs?langredirect=1
+8.	[https://developer.tizen.org/ko/forums/general-support/reading-logs?langredirect=1](https://web.archive.org/web/20220123053252/https://developer.tizen.org/ko/forums/general-support/reading-logs?langredirect=1)
 
 (*) Samsung Developer Forum:
 1.	http://developer.samsung.com/forum/board/thread/view.do?boardName=SDK&messageId=305627&startId=zzzzz~
