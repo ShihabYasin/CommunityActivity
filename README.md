@@ -1,5 +1,5 @@
 # CommunityActivity
-Some collection of Supporting Activity to Tizen Devlopers and Samsung Developers Worldwide by myself @Samsung:
+Some collection of My Supporting Activity to Tizen Devlopers and Samsung Developers @Samsung:
 
 
 /* If any previous post not found from below link(s) please see Archived File(s)   */
